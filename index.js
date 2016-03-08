@@ -6,4 +6,4 @@
 'use strict';
 
 // public
-module.exports = require('spa-component-button');
+module.exports = require('spa-component-panel');
