@@ -16,6 +16,9 @@
         "spa-component-panel": "spasdk/component-panel",
         "stb-component": "stbsdk/component"
     },
+    "devDependencies": {
+        "stb-eslint-config": "stbsdk/eslint-config"
+    },
     "keywords": [
         "stb",
         "stbsdk",
