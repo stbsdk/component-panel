@@ -1,3 +1,6 @@
-/* spa-component-panel: release */
-.component.panel {
+.stb-component-panel {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     background-color: #eee; }
+    .stb-component-panel.hidden {
+        display: none; }
