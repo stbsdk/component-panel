@@ -1,6 +1,7 @@
 Panel component
 ===============
 
+[![Build Status](https://img.shields.io/travis/stbsdk/component-panel.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-panel)
 [![NPM version](https://img.shields.io/npm/v/stb-component-panel.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-panel)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/component-panel.svg?style=flat-square)](https://david-dm.org/stbsdk/component-panel)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
